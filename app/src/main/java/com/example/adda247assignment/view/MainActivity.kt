@@ -1,10 +1,13 @@
-package com.example.adda247assignment
+package com.example.adda247assignment.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.example.adda247assignment.R
+import com.example.adda247assignment.UserAdapter
+import com.example.adda247assignment.viewModel.UserViewModel
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

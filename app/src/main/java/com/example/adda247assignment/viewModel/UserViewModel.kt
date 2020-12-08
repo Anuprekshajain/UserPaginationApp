@@ -1,4 +1,4 @@
-package com.example.adda247assignment
+package com.example.adda247assignment.viewModel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
